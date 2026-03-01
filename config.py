@@ -95,6 +95,7 @@ SENSITIVE_PATTERNS = [
 # GitHub搜索关键词
 AI_SEARCH_KEYWORDS = [
     'openai api',
+    'deepseek', 
     'anthropic claude',
     'gpt api',
     'AI_API_KEY',
