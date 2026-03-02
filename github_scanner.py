@@ -133,9 +133,9 @@ class GitHubScanner:
                 
                 # 搜索代码
                 query = f'{keyword} in:file language:python'
-                #results = self.github.search_code(query, order='desc')
+                results = self.github.search_code(query, order='desc')
                 # 按最近更新排序
-                results = self.github.search_code(query, sort='updated', order='desc')
+                #results = self.github.search_code(query, sort='updated', order='desc')
                 
                 # 从代码搜索结果中提取仓库
                 for code in results:
