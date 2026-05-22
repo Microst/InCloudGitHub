@@ -4206,8 +4206,64 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "shivansh-2003/Internship_task_roles_allocatement": {
+      "first_scan": "2026-05-22 06:02:16",
+      "last_scan": "2026-05-22 06:02:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "chandansp27/Web-QA-and-Content-Generator-Langchain-FastAPI": {
+      "first_scan": "2026-05-22 06:02:25",
+      "last_scan": "2026-05-22 06:02:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "quang20092019/ai_phapluat": {
+      "first_scan": "2026-05-22 06:02:44",
+      "last_scan": "2026-05-22 06:02:44",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "matthue-lee/feature-release-marketing": {
+      "first_scan": "2026-05-22 06:03:10",
+      "last_scan": "2026-05-22 06:03:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "jrzaurin/match-maker": {
+      "first_scan": "2026-05-22 06:04:03",
+      "last_scan": "2026-05-22 06:04:03",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "MrLimitness/OpenMP_Classify": {
+      "first_scan": "2026-05-22 06:05:54",
+      "last_scan": "2026-05-22 06:05:54",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AZekhnini/SeoAgnoAnalyzer": {
+      "first_scan": "2026-05-22 06:06:16",
+      "last_scan": "2026-05-22 06:06:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Dicklesworthstone/llm_aided_ocr": {
+      "first_scan": "2026-05-22 06:06:28",
+      "last_scan": "2026-05-22 06:06:28",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 601,
-  "last_updated": "2026-05-21 06:20:23"
+  "total_scanned": 609,
+  "last_updated": "2026-05-22 06:06:28"
 }
